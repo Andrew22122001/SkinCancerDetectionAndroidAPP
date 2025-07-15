@@ -29,8 +29,8 @@ An Android application that assists in early detection of skin cancer by analyzi
 
 Find the latest app source and model files in the [GitHub Releases](https://github.com/Andrew22122001/SkinCancerDetectionAndroidAPP/releases) section:
 
-- [`SCapp_split.zip`](https://github.com/Andrew22122001/SkinCancerDetectionAndroidAPP/releases/latest/download/SCapp_split.zip)
-- [`SCapp_split.z01`](https://github.com/Andrew22122001/SkinCancerDetectionAndroidAPP/releases/latest/download/SCapp_split.z01)
+- [`SCapp_split.zip`](https://github.com/Andrew22122001/SkinCancerDetectionAndroidAPP/releases/download/v1.0/SCapp_split.zip)
+- [`SCapp_split.z01`](https://github.com/Andrew22122001/SkinCancerDetectionAndroidAPP/releases/download/v1.0/SCapp_split.z01)
 
 ### 🔓 How to unzip:
 **unzip SCapp_split.zip**
